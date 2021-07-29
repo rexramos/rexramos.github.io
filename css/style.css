@@ -1,0 +1,25 @@
+.attribution span{
+    position:absolute;
+    bottom:0;
+    right:0;
+    font-size:0.1em
+}
+
+.adjust-font-size p, .adjust-font-size ul li{
+    text-align: justify;
+    font-size: 0.7em;
+}
+
+.bedfords{
+    display: inline-block;
+}
+
+.bedfords p {
+    margin-left: 1rem;
+    padding: 1rem;
+}
+
+.bedfords img {
+    float: left;
+    margin-right: 1rem;
+}
